@@ -1,0 +1,77 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    height: 100%;
+}
+#titre{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding:0.1%;
+    background-color: rgb(2, 102, 89); 
+    text-emphasis-color: white;
+    padding-left: 16%;
+    color: white;
+
+}
+#ensemble{
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 100%;
+    width: 77.9%;
+    margin-top: 0;
+    display: flex;
+ 
+}
+
+#colgauche{
+    padding: 2%;
+    height: 100%;
+    width: 25%;
+    background-color: rgb(195, 250, 243);
+    display: inline-block;
+    margin: 0;
+}
+#pp{
+    width: 50%;
+    height: 25%px;
+    padding-left: 25%;
+    
+}
+#coldroit{
+    margin: 0;
+    background-color: rgb(228, 231, 231);
+    height: 100%;
+    width: 46%;
+    display: inline-block;
+    padding-left: 2%;
+    margin-right: 20%;
+}
+.infocontact{
+    display: flex;
+}
+
+.icone{
+    width: 20%;
+    height: 20%;
+}
+.icone2{
+    width: 60%;
+    height: 60%;
+}
+h2,h3,p{
+    margin-left: 15px; 
+    margin-bottom: 2%;
+    
+}
+h1{
+    margin: 0;
+    padding: 0;
+    padding-left: 2%;
+}
+table{
+    margin: 0%;
+    padding: 0%;
+}
